@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://github.com/sumitrajput9/sumitrajput9/blob/master/fullstack-banner.png?raw=true" alt="Sumit Rajput | Full Stack Developer Banner" width="100%" />
+  <img src="https://github.com/sumitrajput9/sumitrajput9/blob/master/fullstack-banner.png.png?raw=true" alt="Sumit Rajput | Full Stack Developer Banner" width="100%" />
 </p>
+
 
 
 
