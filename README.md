@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sumitrajput9/sumitrajput9/master/3cbdd06f-699a-4ca6-a382-826a73453d78.png" alt="Banner" width="80%" />
-</p>
+
 
 <h1 align="center">Hi 👋, I'm Sumit Rajput</h1>
 <h3 align="center">A Passionate Full Stack Developer & Problem Solver</h3>
