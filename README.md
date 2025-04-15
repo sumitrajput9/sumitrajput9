@@ -1,15 +1,12 @@
-<p align="center">
-  <img src="https://github.com/sumitrajput9/sumitrajput9/blob/master/fullstack-banner.png.png?raw=true" alt="Sumit Rajput | Full Stack Developer Banner" width="100%" />
-</p>
-
-
-
-
 <h1 align="center">Hi 👋, I'm Sumit Rajput</h1>
 
 <p align="center">
   🚀 Full Stack Developer | Backend Specialist | Problem Solver <br/>
   💻 Passionate about building scalable systems and pixel-perfect UI experiences
+</p>
+
+<p align="center">
+  <img src="https://github.com/sumitrajput9/sumitrajput9/blob/master/fullstack-banner.png?raw=true" alt="Sumit Rajput | Full Stack Developer Banner" width="70%" />
 </p>
 
 ---
@@ -40,24 +37,18 @@
 - 🌱 Strong in **Problem Solving** using C, C++, Java  
 - 💡 Passionate about scalable backend systems and intuitive frontends  
 - 📦 Tools I love: VS Code, Eclipse, Postman, Thunder Client, GitHub, Docker Desktop, AWS Console  
-- 📚 Constant learner: I keep exploring new tools and frameworks
+- 📚 Constant learner: I keep exploring new tools and frameworks  
 
 ---
 
 ### 📬 Let’s Connect
 
-- 🌐 [LinkedIn](https://linkedin.com/in/sumitrajput9)  
-- 💼 [GitHub Portfolio](https://github.com/sumitrajput9)  
-- ✉️ Email: `rajputsumit6859@gmail.com`  
+<p align="center">
+  <a href="https://linkedin.com/in/sumitrajput9" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/sumitrajput9" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:rajputsumit6859@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 
 ---
 
-### ⚡ Fun Fact
 
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
-
----
-
-Let me know if you want to embed project cards or auto-update contributions/projects. Want a dark/light switcher or animation too?
-
-Let’s make it 🔥!
